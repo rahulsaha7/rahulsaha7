@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<a href="https://twitter.com/rahul_saha_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahul_saha_7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rahul-saha7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul-saha7" height="30" width="40" /></a>
+<a href="https://twitter.com/rahul_saha_7" target="blank"><img align="center" src="https://camo.githubusercontent.com/a9078a480f84f4736d1e8ca1fb9e17fd74593705d0dc1470b29d774564f56871/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d2d747769747465723f6c6162656c3d54776974746572266c6f676f3d54776974746572267374796c653d736f6369616c" alt="rahul_saha_7"/></a>
+<a href="https://linkedin.com/in/rahul-saha7" target="blank"><img align="center" src="https://camo.githubusercontent.com/dc4e1335b25ab00d32b2665104b1702803cc858e6e069552e0e16e6c28048c13/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d2d6c696e6b6564696e3f6c6162656c3d4c696e6b6564496e266c6f676f3d4c696e6b6564496e267374796c653d736f6369616c" alt="rahul-saha7" /></a>
 <a href="https://instagram.com/rahul_saha_7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rahul_saha_7/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/forrahul7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="forrahul7" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/forrahul7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="forrahul7" height="30" width="40" /></a>
