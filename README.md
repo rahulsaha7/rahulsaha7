@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
-- 🔭 I’m currently working on [rsmeet](https://github.com/rahulsaha7/rsmeet)
+- 🔭 I’m currently working with [Flexmoney Technologies](https://www.flexmoney.in/)
 
 - 🌱 I’m currently learning **express**
 
