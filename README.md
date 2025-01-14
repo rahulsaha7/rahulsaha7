@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working with [Flexmoney Technologies](https://www.flexmoney.in/)
 
-- 🌱 I’m currently learning **express**
+- 🌱 I’m currently learning **Go**
 
-- 👨‍💻 All of my projects are available at [portfolio](https://rahulsaha-portfolio-production.up.railway.app/)
+- 👨‍💻 All of my projects are available at [portfolio](https://rahul-saha.netlify.app/)
 
 - 💬 Ask me about **react,php,cpp**
 
