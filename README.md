@@ -7,11 +7,11 @@
 
 - 👨‍💻 All of my projects are available at [portfolio](https://rahul-saha.netlify.app/)
 
-- 💬 Ask me about **react,php,cpp**
+- 💬 Ask me about **Java, Spring boot, Postgresql,React,Go,cpp**
 
 - 📫 How to reach me **forrahul7@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1sM9yqjReBDhV4SNHtSscvjf7TygFOjWK/view?usp=sharing](https://drive.google.com/file/d/1sM9yqjReBDhV4SNHtSscvjf7TygFOjWK/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://rahul-saha.netlify.app//assets/Resume/RAHUL_SAHA.pdf)
 
 <h3 align="left">Connect with me:</h3>
 
